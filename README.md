@@ -22,6 +22,8 @@ $ npm install
 $ npm start
 ```
 
+  默认监听3000端口，此时，你可以打开浏览器，在地址栏输入：http://localhost:3000 并按下回车
+
 ## 授权
 
   [MIT](LICENSE)
