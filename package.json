@@ -1,0 +1,30 @@
+{
+  "name": "amrta",
+  "version": "0.1.0",
+  "description": "仿express制作的学习框架amrta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asfor/amrta.git"
+  },
+  "keywords": [
+    "node",
+    "frame"
+  ],
+  "author": {
+    "name": "Shi Yutao"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asfor/amrta/issues"
+  },
+  "homepage": "https://github.com/asfor/amrta#readme",
+  "readme": "仿express制作的学习框架amrta",
+  "readmeFilename": "README.md",
+  "_id": "amrta@0.0.1",
+  "_shasum": "5fd1c1ef26d25a7db80615c50736b9d7cb7891d9",
+  "_from": "amrta@*"
+}
