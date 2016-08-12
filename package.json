@@ -1,6 +1,6 @@
 {
   "name": "amrta",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "仿express制作的学习框架amrta",
   "main": "index.js",
   "scripts": {
@@ -26,9 +26,29 @@
     "url": "https://github.com/asfor/amrta/issues"
   },
   "homepage": "https://github.com/asfor/amrta#readme",
-  "readme": "仿express制作的学习框架amrta",
-  "readmeFilename": "README.md",
-  "_id": "amrta@0.0.1",
-  "_shasum": "5fd1c1ef26d25a7db80615c50736b9d7cb7891d9",
-  "_from": "amrta@*"
+  "_id": "amrta@0.1.0",
+  "_shasum": "27893e26be1176b10e28ac7d94a5531a156034ed",
+  "_from": "amrta@>=0.1.0 <0.2.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "asfor",
+    "email": "445087813@qq.com"
+  },
+  "dist": {
+    "shasum": "27893e26be1176b10e28ac7d94a5531a156034ed",
+    "tarball": "https://registry.npmjs.org/amrta/-/amrta-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "asfor",
+      "email": "445087813@qq.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/amrta-0.1.0.tgz_1470893606730_0.5626033067237586"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/amrta/-/amrta-0.1.0.tgz"
 }
