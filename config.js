@@ -4,6 +4,10 @@ var config = {
 	defaultAction: 'default',		// MVC模式下的默认方法
 	max_MB: 1,						// 上传文件限制大小, 单位MB
 	sessionExpires: 10,				// session过期时间, 单位分钟
+	methods: ['get',				// 路由支持的请求方法
+			  'post',
+			  'put',
+			  'delete'],
 	staticType: ['js',				// 支持的静态文件类型
 				 'css',
 				 'jpg',
