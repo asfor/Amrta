@@ -8,14 +8,14 @@ var config = {
 			  'post',
 			  'put',
 			  'delete'],
-	staticType: ['js',				// 支持的静态文件类型
-				 'css',
-				 'jpg',
-				 'jpeg',
-				 'png',
-				 'bmp',
-				 'gif',
-				 'ico']
+	staticType: {'js': 'text/javascript',	// 支持的静态文件类型
+				 'css': 'text/css',
+				 'jpg': 'image/jpeg',
+				 'jpeg': 'image/jpeg',
+				 'png': 'image/png',
+				 'gif': 'image/gif',
+				 'ico': 'image/x-icon',
+				 'woff': 'application/x-font-woff'}
 };
 
 module.exports = config;

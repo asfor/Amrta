@@ -1,6 +1,6 @@
 {
   "name": "amrta",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "仿express制作的学习框架amrta",
   "main": "index.js",
   "scripts": {
